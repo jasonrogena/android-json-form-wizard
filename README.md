@@ -110,7 +110,7 @@ value - will be the value present in the editText after completion of wizard
 ##### EditText Regex Validation
 
 ```json
-"v_email" : {
+"v_regex" : {
                     "value" : "your-regex-here",
                     "err" : "Your message here."
                 }
